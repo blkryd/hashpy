@@ -5,4 +5,4 @@
   <br>
 </h1>
 
-<h4 align="center">Why crack hashes online when you can them by your own?</h4>
+<h4 align="center">Why crack hashes online when you can crack them by your own?</h4>
